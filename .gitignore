@@ -1,0 +1,17 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pythonlibs/
+
+.env
+
+uploads/*
+exports/*
+!uploads/.gitkeep
+!exports/.gitkeep
+
+.idea/
+.vscode/
+
+.DS_Store
